@@ -19,10 +19,6 @@
 
 <br/><br/>
 
-<!--
-**kaizoku-oh/kaizoku-oh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 - ‍💼 Founder, CTO @ [Octaflyte Technologies Pvt. Ltd](https://www.octaflyte.com/)
 - 🔭 I’m currently working on web GIS systems, game engines & cloud native applications
 - 🌱 I’m currently learning django & Azure
