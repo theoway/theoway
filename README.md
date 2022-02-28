@@ -24,5 +24,5 @@
 - 👯 I’m looking to collaborate on GIS projects
 - 📫 How to reach me: you can reach me from the social media links above
 - 😄 Pronouns: he/him
-- ⚡ Languages: C++, Python
+- ⚡ Languages: C++, Python, Javascript
 ----
