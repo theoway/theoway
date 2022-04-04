@@ -1,5 +1,5 @@
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=theoway&show_icons=true&theme=radical" alt="github stats"/>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=theoway&count_private=true&show_icons=true&theme=radical" alt="github stats"/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   </a>
   <p>
