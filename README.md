@@ -7,8 +7,8 @@
 <br/><br/>
 
 - ‍💼 Founder, CTO @ [Octaflyte Technologies Pvt. Ltd](https://www.octaflyte.com/)
-- 🔭 I’m currently working on web GIS systems, game engines & cloud native applications
-- 🌱 I’m currently learning django & Azure
+- 🔭 I’m currently working on web GIS systems, & distributed computing applications
+- 🌱 I’m currently learning HPC with Python, AWS/Azure
 - 👯 I’m looking to collaborate on GIS projects
 - 📫 How to reach me: you can reach me from the social media links above
 - 😄 Pronouns: he/him
