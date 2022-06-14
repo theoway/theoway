@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-- ‍💼 Founder, CTO @ [Octaflyte Technologies Pvt. Ltd](https://www.octaflyte.com/)
+- ‍💼 Founder, CEO @ [Octaflyte Technologies Pvt. Ltd](https://www.octaflyte.com/)
 - 🔭 I’m currently working on web GIS systems, & distributed computing applications
 - 🌱 I’m currently learning HPC with Python, AWS/Azure
 - 👯 I’m looking to collaborate on GIS projects
